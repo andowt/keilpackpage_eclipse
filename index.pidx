@@ -122,7 +122,6 @@
   <pdsc url="http://mcuxpresso.nxp.com/cmsis_pack/repo/" vendor="NXP" name="iMXRT_DFP" version="1.0.3" deprecated="2018-07-27" />
   <pdsc url="https://toshiba.semicon-storage.com/content/dam/toshiba-ss/shared/docs/product/micro/device-family-Pack/" vendor="Toshiba" name="TX03-M344_DFP" version="1.0.0" />
   <pdsc url="https://github.com/L-Tek/FF-LPC546XX/raw/master/CMISIS-PACK/REPO/" vendor="L-Tek" name="FF_LPC546XX_BSP" version="1.0.2" />
-  <pdsc url="http://download.analog.com/tools/EZBoards/CM302x/Releases/" vendor="AnalogDevices" name="ADuCM302x_DFP" version="3.2.0" />
   <pdsc url="http://www.keil.com/pack/" vendor="ARM" name="Musca_A1_BSP" version="2.0.0" />
   <pdsc url="http://www.keil.com/pack/" vendor="Keil" name="TXZ3_DFP" version="1.2.0" />
   <pdsc url="http://mcuxpresso.nxp.com/cmsis_pack/repo/" vendor="NXP" name="MIMXRT1051_A0_DFP" version="10.0.0" />
@@ -163,14 +162,8 @@
   <pdsc url="http://www.keil.com/pack/" vendor="ARM" name="Musca_B1_BSP" version="1.1.0" />
   <pdsc url="http://www.keil.com/pack/" vendor="Keil" name="LPC800_DFP" version="1.10.1" deprecated="2018-07-30" replacement="Keil.LPC8N04_DFP" />
   <pdsc url="http://www.embedded-office.eu/download/public/pack/" vendor="EmbeddedOffice" name="Flexible_Safety_RTOS" version="1.0.0" />
-  <pdsc url="http://download.analog.com/tools/EZBoards/ADuCM4050/Releases/" vendor="AnalogDevices" name="ADuCM4x50_EZ_KIT_BSP" version="3.1.1" deprecated="2019-04-30" />
   <pdsc url="http://mcuxpresso.nxp.com/cmsis_pack/repo/" vendor="NXP" name="MKL28Z7_DFP" version="11.0.1" />
   <pdsc url="http://mcuxpresso.nxp.com/cmsis_pack/repo/" vendor="NXP" name="MKL82Z7_DFP" version="11.0.1" />
-  <pdsc url="http://download.analog.com/tools/EZBoards/CM302x/Releases/" vendor="AnalogDevices" name="ADuCM302x_EZ_KIT_BSP" version="2.0.1" deprecated="2019-04-10" />
-  <pdsc url="http://download.analog.com/tools/Sensor_Software/Releases/" vendor="AnalogDevices" name="ADI-SensorSoftware" version="1.1.1" deprecated="2019-04-30" />
-  <pdsc url="http://download.analog.com/tools/EZBoards/CM36x/Releases/" vendor="AnalogDevices" name="ADuCM36x_DFP" version="1.0.4" />
-  <pdsc url="https://github.com/analogdevicesinc/EVAL-ADICUP3029/raw/master/cmsis-packs/releases/ble" vendor="AnalogDevices" name="ADI-BleSoftware" version="1.0.1" />
-  <pdsc url="https://github.com/analogdevicesinc/EVAL-ADICUP3029/raw/master/cmsis-packs/releases/wifi" vendor="AnalogDevices" name="ADI-WifiSoftware" version="1.0.1" />
   <pdsc url="http://www.keil.com/pack/" vendor="Keil" name="FM0plus_DFP" version="1.2.0" />
   <pdsc url="http://www.keil.com/pack" vendor="Keil" name="BulbBoard_BSP" version="1.1.0" />
   <pdsc url="http://www.keil.com/pack/" vendor="Keil" name="FM3LowPower_DFP" version="1.1.0" />
@@ -252,7 +245,6 @@
   <pdsc url="https://raw.githubusercontent.com/hdscmcu/pack/master/" vendor="HDSC" name="HC32L130" version="1.0.1" />
   <pdsc url="https://raw.githubusercontent.com/hdscmcu/pack/master/" vendor="HDSC" name="HC32L136" version="1.0.1" />
   <pdsc url="https://github.com/MDK-Packs/Pack/raw/master/QCA400x_WiFi_Driver/" vendor="MDK-Packs" name="QCA400x_WiFi_Driver" version="1.1.0" />
-  <pdsc url="http://download.analog.com/tools/EZBoards/ADuCM355/Releases/" vendor="AnalogDevices" name="ADuCM355_DFP" version="1.0.3" />
   <pdsc url="http://s3.asia.ambiqmicro.com/pack/" vendor="AmbiqMicro" name="Apollo_DFP" version="1.2.0" />
   <pdsc url="http://www.keil.com/pack/" vendor="Keil" name="MCB54110_BSP" version="1.1.0" />
   <pdsc url="http://www.keil.com/pack/" vendor="Keil" name="VE_CAx_DFP" version="1.0.0" />
@@ -402,7 +394,6 @@
   <pdsc url="http://www.keil.com/pack/" vendor="Keil" name="S32K118_SDK_DFP" version="1.2.0" />
   <pdsc url="http://www.keil.com/pack/" vendor="Keil" name="STM32G4xx_DFP" version="1.4.0" />
   <pdsc url="https://fmdevelopers.oss-cn-shanghai.aliyuncs.com/" vendor="FMSH" name="FM33LC0XX_DFP" version="3.0.2" />
-  <pdsc url="http://download.analog.com/tools/EZBoards/ADuCM4050/Releases/" vendor="AnalogDevices" name="ADuCM4x50_DFP" version="4.0.0" />
   <pdsc url="http://imx.embeddedartists.com/keil/pack/" vendor="EmbeddedArtists" name="iMXRT1052_DevelopersKit_BSP" version="1.0.4" />
   <pdsc url="http://imx.embeddedartists.com/keil/pack/" vendor="EmbeddedArtists" name="iMXRT1062_DevelopersKit_BSP" version="1.0.2" />
   <pdsc url="https://toshiba.semicon-storage.com/content/dam/toshiba-ss/shared/docs/product/micro/device-family-Pack/" vendor="Toshiba" name="TXZ4Aplus-M4K2_DFP" version="1.0.0" />
