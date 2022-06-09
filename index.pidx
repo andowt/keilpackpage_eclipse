@@ -59,7 +59,6 @@
   <pdsc url="http://developer.nordicsemi.com/nRF51_SDK/pieces/nRF_SoftDevice_Common/" vendor="NordicSemiconductor" name="nRF_SoftDevice_Common" version="2.0.0-2.alpha" />
   <pdsc url="http://developer.nordicsemi.com/nRF51_SDK/pieces/nRF_RTX/" vendor="NordicSemiconductor" name="nRF_RTX" version="4.74.0-9" />
   <pdsc url="http://developer.nordicsemi.com/nRF51_SDK/pieces/nRF_NFC/" vendor="NordicSemiconductor" name="nRF_NFC" version="1.0.0-2.alpha" />
-  <pdsc url="http://www.analog.com/media/en/engineering-tools/design-tools" vendor="AnalogDevices" name="ADuCM320_DFP" version="1.1.0" />
   <pdsc url="http://clarinox.com/cmsis" vendor="Clarinox" name="Wireless" version="2.0.1" />
   <pdsc url="http://www.keil.com/pack/" vendor="Keil" name="Kinetis_KEAxx_DFP" version="1.3.0" />
   <pdsc url="http://www.keil.com/pack/" vendor="Keil" name="TMPM0_DFP" version="1.3.0" />
